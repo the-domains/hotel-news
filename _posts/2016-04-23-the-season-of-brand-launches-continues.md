@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are still in the season of brand launches. The hotel groups are still developing new brands and launching them on the market place.
-datePublished: '2016-04-23T21:24:42.515Z'
-dateModified: '2016-04-23T21:24:34.929Z'
+datePublished: '2016-04-23T21:31:50.035Z'
+dateModified: '2016-04-23T21:31:26.847Z'
 title: The Season of Brand Launches Continues
 author: []
+sourcePath: _posts/2016-04-23-the-season-of-brand-launches-continues.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-the-season-of-brand-launches-continues.md
-published: true
 url: the-season-of-brand-launches-continues/index.html
 _type: Article
 
@@ -32,7 +32,7 @@ The Unbound Collection by Hyatt will include a portfolio of new and existing upp
 
 The properties within [The Unbound Collection by Hyatt][1]-- which will include historic urban gems, contemporary trend-setters, boutique hotels, resorts, and more -- will have their own individual brand identities, free from constraint or convention. At the same time, the brand will provide guests the freedom from worry by giving them the high-quality that comes with the Hyatt brand.
 
-5 Hotels have already been rebranded as Unbound Collection by Hyatt
+5 Hotels have already been re-branded as Unbound Collection by Hyatt
 
 * Hotel du Louvre - Unbound Collection by Hyatt -- Paris, France
 * The Confidante - Unbound Collection by Hyatt -- Miami Beach, FL, USA
