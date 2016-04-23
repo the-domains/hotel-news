@@ -1,7 +1,7 @@
 name: Hotel News
 favicon: null
-layout_spectrum: 0.5559490306768566
-typography_spectrum: 0.6624196688644588
+layout_spectrum: 1
+typography_spectrum: 0.28503
 title: 'Hotel & Travel Industry News'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.48729667835868895
-  lightness: 0.01064511970616877
-  saturation: 0.8898983739782125
-  rhythmicContrast: 0.7661065002903342
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
