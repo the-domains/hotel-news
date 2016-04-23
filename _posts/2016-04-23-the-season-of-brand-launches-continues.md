@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are still in the season of brand launches. The hotel groups are still developing new brands and launching them on the market place.
-datePublished: '2016-04-23T21:46:55.608Z'
-dateModified: '2016-04-23T21:46:47.141Z'
+datePublished: '2016-04-23T21:58:50.442Z'
+dateModified: '2016-04-23T21:47:03.996Z'
 title: The Season of Brand Launches Continues
 author: []
 sourcePath: _posts/2016-04-23-the-season-of-brand-launches-continues.md
