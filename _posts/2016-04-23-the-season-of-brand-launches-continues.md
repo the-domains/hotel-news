@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are still in the season of brand launches. The hotel groups are still developing new brands and launching them on the market place.
-datePublished: '2016-04-23T21:31:50.035Z'
-dateModified: '2016-04-23T21:31:26.847Z'
+datePublished: '2016-04-23T21:46:55.608Z'
+dateModified: '2016-04-23T21:46:47.141Z'
 title: The Season of Brand Launches Continues
 author: []
 sourcePath: _posts/2016-04-23-the-season-of-brand-launches-continues.md
@@ -71,7 +71,9 @@ The properties announced will be in :
 
 ## NH Hotels
 
-NH Hotels are launching a new brand in the Chinese market via its new joint venture with HNA Hospitality. The new brand will be called[**Nuo Han**.][8] As part of the announcement today, 2 hotels will be opening later this year in Hainan province:
+NH Hotels are launching a new brand in the Chinese market via its new joint venture with HNA Hospitality. 
+
+The new brand will be called [**Nuo Han**.][8] As part of the announcement today, 2 hotels will be opening later this year in Hainan province:
 
 * NH Sanya Phoenix International Airport (334 Rooms)
 * NH Haikoi Meilan international Airport (1001 Rooms)
