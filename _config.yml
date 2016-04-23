@@ -2,12 +2,13 @@ name: Hotel News
 favicon: null
 layout_spectrum: 0.5559490306768566
 typography_spectrum: 0.6624196688644588
+title: 'Hotel & Travel Industry News'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76826127-1
   facebook: null
   twitter: null
 opengraph:
