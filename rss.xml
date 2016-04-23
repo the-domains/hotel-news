@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hotel News]]></title>
-        <description><![CDATA[Hotel News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hotel & Travel Industry News]]></title>
+        <description><![CDATA[Hotel & Travel Industry News]]></description>
+        <link>https://thegrid.ai/hotel-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 20:58:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 21:20:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hotel-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to 2016.]]></title>
+            <description><![CDATA[<article><h1>Welcome to 2016.</h1><p>I would like to take this opportunity to wish you all a Happy New Year 2016 and hope that it brings you all health and happiness.</p></article>]]></description>
+            <link>https://thegrid.ai/hotel-news/welcome-to-2016/index.html</link>
+            <guid isPermaLink="false">cda4a790-2e45-4704-9e6c-4300eb4ddafb</guid>
+            <pubDate>Sat, 23 Apr 2016 21:20:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Brands for 2016]]></title>
             <description><![CDATA[<article><h1>New Brands for 2016</h1><h2>FRHI Hotels & Resorts</h2><p>We start the New Year with the announcement of 2 New Hotels Brands.</p></article>]]></description>
-            <link>undefinednew-brands-for-2016/index.html</link>
+            <link>https://thegrid.ai/hotel-news/new-brands-for-2016/index.html</link>
             <guid isPermaLink="false">0e8dae52-5596-4e60-870f-0fd38c6be880</guid>
             <pubDate>Sat, 23 Apr 2016 20:58:09 GMT</pubDate>
         </item>
