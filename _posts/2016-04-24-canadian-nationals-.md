@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: These pages are intended as a reference point for North American Passport Holders with regards to
-datePublished: '2016-04-24T16:40:50.641Z'
-dateModified: '2016-04-24T16:39:00.107Z'
+description: "These pages are intended as a reference point for North American Passport Holders\_with regards to"
+datePublished: '2016-04-24T16:45:16.665Z'
+dateModified: '2016-04-24T16:40:51.158Z'
 title: 'Canadian Nationals - '
 author: []
 authors: []
