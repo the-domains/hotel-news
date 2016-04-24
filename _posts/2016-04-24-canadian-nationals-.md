@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "These pages are intended as a reference point for North American Passport Holders\_with regards to"
-datePublished: '2016-04-24T16:45:16.665Z'
-dateModified: '2016-04-24T16:40:51.158Z'
-title: 'Canadian Nationals - '
+description: ''
+datePublished: '2016-04-24T16:56:12.673Z'
+dateModified: '2016-04-24T16:45:19.853Z'
+title: Canadian Nationals
 author: []
 authors: []
 publisher:
@@ -22,13 +22,15 @@ url: canadian-nationals-/index.html
 _type: Article
 
 ---
+# North American Travel Pages
+
 These pages are intended as a reference point for North American Passport Holders with regards to
 
 * Passport Information
 * Travel advice
 * Assistance when abroad
 
-# Canadian Nationals - 
+# Canadian Nationals
 
 This page will be links for Canadian Passport Holders - It will **NOT** advise you of the visa requirements for travelling abroad.
 
@@ -56,7 +58,6 @@ The links below will help you identify the nearest Canadian Diplomatic represent
 
 [Canadian Embassies, High Commissions and Consulates Abroad (Français)][5]
 
-  
 # American Nationals
 
 On this page will be links for US Passport Holders - It will **NOT** advise you of the visa requirements for travelling abroad.
