@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T16:56:12.673Z'
-dateModified: '2016-04-24T16:45:19.853Z'
+datePublished: '2016-04-24T19:54:17.336Z'
+dateModified: '2016-04-24T16:56:18.316Z'
 title: Canadian Nationals
 author: []
+sourcePath: _posts/2016-04-24-canadian-nationals-.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-canadian-nationals-.md
-published: true
 url: canadian-nationals-/index.html
 _type: Article
 
