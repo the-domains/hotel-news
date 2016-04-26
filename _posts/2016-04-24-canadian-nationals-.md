@@ -1,27 +1,24 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-04-25T22:36:11.362Z'
+datePublished: '2016-04-26T16:49:03.002Z'
 hasPage: true
+inFeed: true
 inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-24T19:54:17.336Z'
-dateModified: '2016-04-24T16:56:18.316Z'
-title: Canadian Nationals
+publisher: {}
+title: Nort
+description: These pages are intended as a reference point for North American Passport Holders with regards to
 author: []
+starred: false
 sourcePath: _posts/2016-04-24-canadian-nationals-.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 url: canadian-nationals-/index.html
 _type: Article
 
 ---
+# Nort
+
 # North American Travel Pages
 
 These pages are intended as a reference point for North American Passport Holders with regards to
@@ -29,8 +26,6 @@ These pages are intended as a reference point for North American Passport Holder
 * Passport Information
 * Travel advice
 * Assistance when abroad
-
-# Canadian Nationals
 
 This page will be links for Canadian Passport Holders - It will **NOT** advise you of the visa requirements for travelling abroad.
 
