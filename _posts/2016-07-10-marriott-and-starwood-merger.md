@@ -7,14 +7,14 @@ keywords: []
 description: >-
   The merger between Marriott and Starwood is in the final stages of being
   approved by the various competition authorities around the world.
-datePublished: '2016-07-10T20:07:48.036Z'
-dateModified: '2016-07-10T20:07:39.956Z'
+datePublished: '2016-07-10T20:42:49.244Z'
+dateModified: '2016-07-10T20:42:35.687Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-10-marriott-and-starwood-merger.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-10-marriott-and-starwood-merger.md
 url: marriott-and-starwood-merger/index.html
 _type: Article
 
